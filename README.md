@@ -1,2 +1,4 @@
 # tik-tak-toe
-# tik-tak-toe
+
+## compilation :
+  `$ make`
